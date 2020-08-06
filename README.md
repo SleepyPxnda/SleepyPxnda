@@ -1,4 +1,4 @@
-### Hi there, I'M Panda, and well ... most of the time sleepy ... 🤣
+### Hi there, I'm Panda, and well ... most of the time sleepy ... 🤣
 
 ## My Life
  - working on several projects
