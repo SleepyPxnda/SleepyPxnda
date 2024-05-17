@@ -2,12 +2,11 @@
 
 **I am a 22 year old Software Engineer from 🇩🇪**
 
-- 🔭 Currently working on [**Nuget Server**](https://github.com/SleepyPxnda/nugo) using GO
-- 👀 Developer [@NoRiskClient](https://github.com/NoRiskClient/)
+- 🔭 Currently working on [@NoRiskClient](https://github.com/NoRiskClient/) in Kotlin
 - 🌱 I’m currently learning **Kotlin** 😍
 - 📖 I'm currently a master's graduate candidate in **Cloud computing and DevOps**
 - 🔎 I'm interested in **everything new and interesting**
-- 🤯 I want to learn: **GO**
+- 🤯 I want to learn: **Kotlin**
 - 📫 If you want to talk to me, reach out to me on: 
   - Discord: *@pxndaroo*
 
