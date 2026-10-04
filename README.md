@@ -8,7 +8,7 @@
   - Discord: *@pxndaroo*
 
 ### Operating Systems
-![Operating Systems](https://skillicons.dev/icons?i=windows,apple,linux,ubuntu&perline=5)
+![Operating Systems](https://skillicons.dev/icons?i=windows,apple,ubuntu&perline=5)
 
 ### Tools
 ![Tools](https://skillicons.dev/icons?i=git,github,docker,ktor,mongodb,mysql,npm,nodejs,vscode,idea,webstorm,postman,postgres&perline=5)
